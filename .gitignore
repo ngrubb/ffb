@@ -38,3 +38,5 @@ ehthumbs.db
 .vagrant
 
 public/wp-content/uploads
+.htaccess
+wp-config.php
