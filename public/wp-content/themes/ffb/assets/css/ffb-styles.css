@@ -29,17 +29,19 @@ h1,h2,h3,h4,h5,h6 {
 
   .has-sidebar #primary,
   .has-sidebar:not(.error404) #primary {
-    width: 66%;
+    width: 73%;
     border-right: 1px solid rgb(232, 232, 232);
+    padding-right: 15px;
   }
 
   .has-sidebar #secondary {
-    width: 30%;
+    width: 25%;
   }
 
 }
 
-button {
+button,
+.entry-footer .edit-link a.post-edit-link {
   background-color: rgb(45,50,65);
 }
 
