@@ -66,8 +66,8 @@ h2.widget-title {
 /* NAVIGATION */
 
 .navigation-top {
-  background-color: rgb(45,50,65);
-  color: white;
+  /*background-color: rgb(45,50,65);*/
+  /*color: white;*/
 }
 
 .navigation-top .wrap {
@@ -76,7 +76,7 @@ h2.widget-title {
 }
 
 .main-navigation a {
-  color: white;
+  /*color: white;*/
   font-size: 20px;
   letter-spacing: .5px;
   padding: .75em 1.5em;
