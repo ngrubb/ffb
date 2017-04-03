@@ -24,6 +24,16 @@
 </head>
 
 <body <?php body_class(); ?>>
+
+<!-- adsense code -->
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-6587650088749647",
+    enable_page_level_ads: true
+  });
+</script>
+
 <div id="page" class="site">
 	<a class="skip-link screen-reader-text" href="#content"><?php _e( 'Skip to content', 'twentyseventeen' ); ?></a>
 
