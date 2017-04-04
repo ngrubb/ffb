@@ -114,3 +114,14 @@ p.copyright {
   font-family: 'Source Sans Pro', sans-serif;
   font-size: 12px;
 }
+
+
+
+
+
+
+/* table styles */
+
+#table_1_filter,
+.dataTables_info { display: none; }
+
