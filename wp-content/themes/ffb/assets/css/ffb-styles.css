@@ -118,10 +118,7 @@ p.copyright {
 
 
 
-
-
 /* table styles */
 
-#table_1_filter,
+.dataTables_filter,
 .dataTables_info { display: none; }
-
