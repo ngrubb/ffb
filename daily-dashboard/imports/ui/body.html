@@ -1,0 +1,17 @@
+<body>
+  <div class="container">
+    <header>
+      <h1>Todo List</h1>
+    </header>
+ 
+    <ul>
+      {{#each matchups }}
+        {{> matchup }}
+      {{/each}}
+    </ul>
+  </div>
+</body>
+ 
+<template name="matchup">
+  <li>{{text}}</li>
+</template>
